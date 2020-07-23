@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Biodata App</string>
+    <string name="enter_number">Masukkan Nomor</string>
+    <string name="enter_name">Masukkan Nama</string>
+    <string name="update">update</string>
+    <string name="back">back</string>
+    <string name="pilih">Pilih</string>
+    <string name="create">Create</string>
+    <string name="lihat_biodata">Lihat Biodata</string>
+    <string name="buat_biodata">Buat Biodata</string>
+    <string name="qiswatul_ulfah">Nama : Qiswatul Ulfah ( Android Developer )</string>
+    <string name="g_231_17_0032">Nim : G.231.17.0032</string>
+    <string name="woman_android_developer">Woman Android Developer</string>
+    <string name="detail_biodata">Detail Biodata</string>
+    <string name="dekrip">Dekrip</string>
+    <string name="deskripsi">
+        Aplikasi Biodata App dengan algoritma RSA,
+        bahasa pemprograman Kotlin,
+        dan Database Room.
+    </string>
+    <string name="nomor">Nomor :</string>
+    <string name="nama">Nama :</string>
+</resources>
